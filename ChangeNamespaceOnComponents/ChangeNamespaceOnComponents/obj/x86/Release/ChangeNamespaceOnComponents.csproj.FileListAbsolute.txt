@@ -1,0 +1,6 @@
+D:\Tridion 2011\ChangeNamespaceOnComponents\ChangeNamespaceOnComponents\bin\Release\ChangeNamespaceOnComponents.exe.config
+D:\Tridion 2011\ChangeNamespaceOnComponents\ChangeNamespaceOnComponents\bin\Release\ChangeNamespaceOnComponents.exe
+D:\Tridion 2011\ChangeNamespaceOnComponents\ChangeNamespaceOnComponents\bin\Release\ChangeNamespaceOnComponents.pdb
+D:\Tridion 2011\ChangeNamespaceOnComponents\ChangeNamespaceOnComponents\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Tridion 2011\ChangeNamespaceOnComponents\ChangeNamespaceOnComponents\obj\x86\Release\ChangeNamespaceOnComponents.exe
+D:\Tridion 2011\ChangeNamespaceOnComponents\ChangeNamespaceOnComponents\obj\x86\Release\ChangeNamespaceOnComponents.pdb
